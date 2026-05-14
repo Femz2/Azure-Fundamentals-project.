@@ -1,10 +1,16 @@
-# Azure Fundamentals Submission
+# Azure Cloud Project
 
-## 1. Region Selection
-*   *Chosen Region:* South Africa North.
-*   *Justification:* This region provides the lowest latency for users in West Africa (Lagos) due to geographic proximity.
+## Tasks Completed
+1.⁠ ⁠Account Registration & Identity Verification
+2.⁠ ⁠Portal Navigation
+3.⁠ ⁠Governance Setup (Resource Group)
+4.⁠ ⁠RBAC & Identity Awareness
+5.⁠ ⁠Region Analysis
+6.⁠ ⁠Resource Deployment (VM)
+7.⁠ ⁠Cost Management Configuration
 
-## 2. Shared Responsibility Model (IaaS)
-For the Virtual Machine deployed in this project:
-*   *Microsoft Responsibility:* Physical security, hardware maintenance, and the virtualization layer.
-*   *My Responsibility:* Operating system patching, Network Security Group (firewall) configuration, and identity management.
+## Evidence
+•⁠  ⁠[Azure Subscription Status](./image_37f698.jpg)
+•⁠  ⁠[Resource Group Details](./02_Resource_Group.jpg)
+•⁠  ⁠[Cost Management/Budget](./03_Budget_Alerts.jpg)
+•⁠  ⁠[Technical Summary Report](./Summary_Report.md)
